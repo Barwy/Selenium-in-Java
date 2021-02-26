@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2438d7c-dc41-490a-9fa6-a6d5b0d552dc" name="Default Changelist" comment="" />
+    <list default="true" id="a2438d7c-dc41-490a-9fa6-a6d5b0d552dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayBill/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayBill/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayBill/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayBill/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayBill/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayBill/PayBill.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayBill/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayBill/src/main/resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayBill/src/test/java/Electricity.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
