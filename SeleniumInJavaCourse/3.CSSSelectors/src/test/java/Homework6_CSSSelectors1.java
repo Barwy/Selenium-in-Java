@@ -38,9 +38,9 @@ public class Homework6_CSSSelectors1 {
 
     @Test
     public void CSSTest(){
-        driver.findElement(By.cssSelector("input[name='username']"));
-        driver.findElement(By.cssSelector("input[name='password']"));
-        driver.findElement(By.cssSelector("input[id='reg_email'][name='email']"));
+        driver.findElement(By.cssSelector("input[name='username'][type='text'][id='username'][autocomplete='username']"));
+        driver.findElement(By.cssSelector("input[type='password'][name='password'][id='password][autocomplete='current-password']"));
+        driver.findElement(By.cssSelector("input[name='email'][type='email'][id='reg_email'][autocomplete='email']"));
         driver.findElement(By.cssSelector("li[class='cat-item cat-item-18']"));
         driver.findElement(By.cssSelector("label[for='reg_email']"));
 

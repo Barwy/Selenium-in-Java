@@ -65,7 +65,6 @@ li - tag;
 class - atrybut;
 
 'cat-item cat-item-18' - wartości atrybutu 1 i 2;
-
 a[aria-label='0 items in cart'][tabindex='65']#nav-cart -> przykład z amazon.com
 na początku znajduje sie tag "a" mówiący jakiego typu jest to obiekt (tag nie jest obowiązkowy).
 */
