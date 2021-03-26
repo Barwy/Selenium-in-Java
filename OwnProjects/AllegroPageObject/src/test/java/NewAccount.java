@@ -36,8 +36,6 @@ public class NewAccount extends PageObject {
 
     public void acceptCookies() {
         this.cookiesButton.click();
-        Assertions.assertFalse(driver.getPageSource().contains("label class=\"m-label\" for=\"radio1\""),
-                "You are on business account tab");
     }
 
     public void enterEmailAddress(String emailAddress) {
@@ -47,17 +45,7 @@ public class NewAccount extends PageObject {
 
     public void enterPassword(String password) {
         this.passwordField.click();
-        Assertions.assertTrue(driver.getPageSource().contains("class=\"ozg4u ftsdx f1sm5\""),
-                "Invalid e-mail address");
         this.passwordField.sendKeys(password);
-        Assertions.assertTrue(driver.getPageSource().contains("span class=\"ht13u6 c1tzf\">min. 8 znaków"),
-                "Password too short");
-        Assertions.assertTrue(driver.getPageSource().contains("span class=\"ht13u6 c1tzf\">wielka litera"),
-                "Capital letter missing");
-        Assertions.assertTrue(driver.getPageSource().contains("span class=\"ht13u6 c1tzf\">mała litera"),
-                "Lowercase letter missing");
-        Assertions.assertTrue(driver.getPageSource().contains("span class=\"ht13u6 c1tzf\">cyfra"),
-                "Digit missing");
     }
 
     public void clickAgeRange() {
@@ -70,14 +58,13 @@ public class NewAccount extends PageObject {
 
     public void clickSubmit() {
         submitButton.click();
-        Assertions.assertFalse(driver.getPageSource().contains("class=\"_1dd5x mgmw_1p _44753_3g4PV\""),
-                "Obligatory consent has not ben ticked");
     }
 
-    public void rregisterConfirmation(String redirectURL) {
+    public void registerConfirmation(String redirectURL) {
         WebDriverWait wait = new WebDriverWait(driver, 10);
         wait.until(ExpectedConditions.visibilityOf(mailIcon));
-        Assertions.assertEquals(redirectURL, driver.getCurrentUrl(), "You have not been redirected to " + redirectURL);
+        Assertions.assertEquals(redirectURL, driver.getCurrentUrl(),
+                "You have not been redirected to " + redirectURL);
     }
 
 
