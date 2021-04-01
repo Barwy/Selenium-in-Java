@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc26c42d-e1ba-4fcf-a44f-e603673df3f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../OwnProjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OwnProjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/FailedLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/HappyPath1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/PageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/SuccessfulRegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/TestSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/Notes/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/target/test-classes/InteractionsTest/HappyPath1Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework1_closing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework2_getURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework3_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework4_WindowOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/ScreenSize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OwnProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.Basics" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
