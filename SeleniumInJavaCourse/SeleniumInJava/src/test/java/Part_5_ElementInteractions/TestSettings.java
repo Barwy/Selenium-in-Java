@@ -1,4 +1,4 @@
-package InteractionsTest;
+package Part_5_ElementInteractions;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

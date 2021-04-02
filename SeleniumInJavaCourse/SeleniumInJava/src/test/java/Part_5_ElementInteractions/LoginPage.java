@@ -1,4 +1,4 @@
-package InteractionsTest;
+package Part_5_ElementInteractions;
 
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;

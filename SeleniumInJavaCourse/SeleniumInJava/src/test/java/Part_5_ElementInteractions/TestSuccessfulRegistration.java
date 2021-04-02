@@ -1,9 +1,9 @@
-package InteractionsTest;
+package Part_5_ElementInteractions;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class TestSuccessfulRegistration extends InteractionsTest.TestSettings {
+public class TestSuccessfulRegistration extends TestSettings {
     @Test
     //Try to log in with valid credentials;
     public void SuccessfulRegistration() {

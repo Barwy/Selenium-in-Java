@@ -1,9 +1,9 @@
-package InteractionsTest;
+package Part_5_ElementInteractions;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class TestFailedLogin extends InteractionsTest.TestSettings {
+public class TestFailedLogin extends TestSettings {
     @Test
     //Trry to log in with unregistered email address and some password;
     public void incorrectCredentials() {

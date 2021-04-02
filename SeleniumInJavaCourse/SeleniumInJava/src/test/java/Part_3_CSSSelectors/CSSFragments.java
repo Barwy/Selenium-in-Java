@@ -1,3 +1,5 @@
+package Part_3_CSSSelectors;
+
 public class CSSFragments {
 }
 /* Pełnym element: <button class="btn btn-primary btn-register" name="register">

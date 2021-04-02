@@ -1,9 +1,9 @@
-package InteractionsTest;
+package Part_5_ElementInteractions;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class TestFailedRegistration extends InteractionsTest.TestSettings {
+public class TestFailedRegistration extends TestSettings {
 
     @Test
     public void incorrectEmail() {
