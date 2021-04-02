@@ -5,23 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc26c42d-e1ba-4fcf-a44f-e603673df3f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/FailedLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/HappyPath1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/PageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/SuccessfulRegistrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/InteractionsTest/TestSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/src/test/java/Notes/Notes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.InteractionsOfElements/target/test-classes/InteractionsTest/HappyPath1Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework1_closing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework2_getURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework3_Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework4_WindowOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/ScreenSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/SeleniumInJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/2/LocatorBy/Homework5_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/2/LocatorBy/SimpleLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/3/CSSSelectors/CSSFragments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/3/CSSSelectors/CSSSelectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/3/CSSSelectors/CSS_ElementRelations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/3/CSSSelectors/Homework6_CSSSelectors1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/3/CSSSelectors/Homework7_CSSFragments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/3/CSSSelectors/Homework7_CSSelements2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/4/XPath/Notes1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/4/XPath/XPathHomework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/src/test/java/4/XPath/XPathHomework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/target/classes/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/target/test-classes/DemoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/target/test-classes/Homework1_closing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/target/test-classes/Homework2_getURL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/target/test-classes/Homework3_Cookies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/target/test-classes/Homework4_WindowOptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumInJava/target/test-classes/ScreenSize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/CompleteCourse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/DemoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework1_closing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework2_getURL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework3_Cookies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/Homework4_WindowOptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompleteCourse/src/1.Basics/java/ScreenSize.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +68,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.Basics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../5.InteractionsOfElements" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
